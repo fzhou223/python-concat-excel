@@ -1,0 +1,11 @@
+numpy>=1.15
+pandas>=0.23
+xlrd>=0.9
+Workbook>=1.1
+openpyxl>=2.5
+pytz
+
+altgraph
+importlib-metadata
+pefile>=2017.8.1
+pyinstaller-hooks-contrib>=2020.6
