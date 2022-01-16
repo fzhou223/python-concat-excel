@@ -6,7 +6,9 @@ Excel 合併工具
 為了提高效率故寫了一段腳本。
 
 ## Install
-This project uses python 3.7.  Go check them out if you don't have them locally installed.
+This project uses python 3.7. 
+The import package please look at `requirements.txt.`
+Go check them out if you don't have them locally installed.
 
 ## Usage
 1. run `main.py`
