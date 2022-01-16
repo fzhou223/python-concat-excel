@@ -9,9 +9,15 @@ Excel 合併工具
 This project uses python 3.7.  Go check them out if you don't have them locally installed.
 
 ## Usage
-1. run main.pu
-2. select the folder the excel files in
-3. look the output excel file at the new folder named 'output'
+1. run `main.py`
+2. select the folder the excel files in.
+
+> Please make sure the first row of fields is consistent<br/>
+> The excel save as *.xlxs file<br/>
+> No merged cells in the document
+
+3. look the output excel file at the new folder named `output`
 
 ## License
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+This work is licensed under a 
+[Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
